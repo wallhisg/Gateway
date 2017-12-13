@@ -1,0 +1,2 @@
+Ui.o: lib/Ui/Ui.cpp
+lib/Ui/Ui.deps: lib/Ui/Ui.cpp

@@ -1,0 +1,2 @@
+Homepage.o: src/Homepage/Homepage.cpp
+src/Homepage/Homepage.deps: src/Homepage/Homepage.cpp

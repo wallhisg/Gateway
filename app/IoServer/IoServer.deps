@@ -1,0 +1,2 @@
+Server.o: app/IoServer/Server.cpp
+app/IoServer/IoServer.deps: app/IoServer/Server.cpp

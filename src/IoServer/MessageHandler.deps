@@ -1,0 +1,2 @@
+MessageHandler.o: src/IoServer/MessageHandler.cpp
+src/IoServer/MessageHandler.deps: src/IoServer/MessageHandler.cpp
